@@ -26,3 +26,4 @@
 
 <img src="price.png">
 
+### Deployment of Oneagent in any host 
