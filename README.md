@@ -18,3 +18,11 @@
 
 <img src="dynat.png">
 
+### OneAgent in Dynatrace 
+
+<img src="oneag.png">
+
+### cloud resource consumption charges by dyntrace 
+
+<img src="price.png">
+
